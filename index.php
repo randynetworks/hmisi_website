@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <title>Websitenya HMISI PPG</title>
-
+    <script src="https://kit.fontawesome.com/d7573f2700.js" crossorigin="anonymous"></script>
     <!-- style -->
     <style>
         .parallax1 {
@@ -161,7 +161,8 @@
         </div>
     </section>
 
-    <p style="color: red">ini text Ayoboga.com</p>
+
+
     <!-- bagian Akhir -->
     <div class="mt-5 mb-5 text-center">
         <h1 class="display-3">Know More Us!</h1>
@@ -170,7 +171,7 @@
     </div>
     <section class="mt-5 text-center" style="background-color: #f57c00">
         <div class="container conten">
-            <h1 class="display-3 text-white pt-5">Sosial Medianya HMISI</h1>
+            <h1 class="display-3 text-white pt-5">Ttile</h1>
             <div class="card-columns pt-5">
                 <div class="card bg-outline-primary bg-transparent">
                     <div class="card-body text-center">
@@ -194,7 +195,8 @@
     <!-- footer -->
     <footer>
         <!-- Navigasi Bar -->
-        <ul class="nav justify-content-center pt-3 pb-3" style="background-color: #455a64">
+
+        <ul class="nav justify-content-center pt-4 pb-4" style="background-color: #455a64">
             <li class="nav-item">
                 <a class="nav-link active text-white" href="index.php">Home</a>
             </li>
@@ -204,9 +206,12 @@
             <li class="nav-item">
                 <a class="nav-link text-white" href="">Kepengurusan</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="">Ikuti Kami <i class="fa fa-instagram"></i></a>
+            </li>
         </ul>
         <!-- Copyright -->
-        <div class="pt-3 pb-3 text-center" style="background-color: #263238">
+        <div class="pt-2 pb-1 text-center" style="background-color: #263238">
             <div>
                 <div>
                     <p class="text-white">Copyright &copy;2020 by Himpunan Mahasiswa Manajemen Sistem Informasi</p>
@@ -215,6 +220,7 @@
         </div>
     </footer>
     <!-- Optional JavaScript -->
+    <script src="https://kit.fontawesome.com/d7573f2700.js" crossorigin="anonymous"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
